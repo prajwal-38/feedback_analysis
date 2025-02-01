@@ -2,14 +2,6 @@
 
 This project analyzes customer feedback (reviews) to classify whether the feedback is **positive (Good Feedback)** or **negative (Bad Feedback)** using machine learning. A **Random Forest Classifier** model is trained to predict whether feedback is good or bad, based on text reviews.
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Technologies Used](#technologies-used)
-- [Setup Instructions](#setup-instructions)
-- [Usage](#usage)
-- [Model Training](#model-training)
-- [File Structure](#file-structure)
-- [License](#license)
 
 ## Project Overview
 
